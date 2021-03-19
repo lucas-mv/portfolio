@@ -3,6 +3,8 @@
 Welcome to my portfolio page! 
 This is where I keep track of my favourite personal projects that are open for everybody to use!
 
+You can check out all my project in my [github profile](https://github.com/lucas-mv) and my personal information and CV in my [linkedin profile page](https://www.linkedin.com/in/lucas-moura-veloso-443183117/?locale=en_US).
+
 ### Markdown flow
 >🌐 https://lucas-mv.github.io/markdown-flow/
 >
