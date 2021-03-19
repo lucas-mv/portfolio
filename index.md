@@ -1,7 +1,7 @@
 ## Lucas Moura Veloso
 
 Welcome to my portfolio page! 
-This is where I keep track of my favourite personal projects that are open to everybody to use!
+This is where I keep track of my favourite personal projects that are open for everybody to use!
 
 ### Markdown flow
 >🌐 https://lucas-mv.github.io/markdown-flow/
